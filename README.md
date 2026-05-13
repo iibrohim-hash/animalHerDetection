@@ -9,7 +9,7 @@
 We ran **eleven experiments** across three iterations, climbing the ladder of feature complexity from color histograms to ResNet50 transfer features. The final model, ResNet50 + SVM (RBF kernel), reaches **93.30% test accuracy** with a tight 6.5-point train→test gap.
 
 <p align="center">
-  <img src="images/quam_preview.png" alt="QuAM aerial herd classification" width="700"/>
+  <img src="" alt="animalHerd.png" width="700"/>
 </p>
 
 ---
